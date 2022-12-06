@@ -2,7 +2,7 @@
 #include "Main.h"
 #include "Input.h"
 
-//GitHubのテスト用に追加
+
 CTitle::CTitle()
 {
 }
